@@ -5,22 +5,28 @@ class Graph {
     char [] Name;
     boolean [] Node;
     int [][] Edge;
-    public Graph(){
+    public Graph()
+    {
         Node = new boolean[0];
         Edge = new int[0][0];
         Name = new char[0];
     }
-    public Graph(int Size){
+    public Graph(int Size)
+    {
         Scanner scanner = new Scanner(System.in);
         Name = new char[Size];
         Node = new boolean[Size];
         Edge = new int[Size][Size];
-        for(int i=0;i<Size;i++) {
-            for (int j = i; j < Size; j++) {
-                if (i != j) {
+        for(int i=0;i<Size;i++) 
+        {
+            for (int j = i; j < Size; j++) 
+            {
+                if (i != j) 
+                {
                     System.out.print(i + "," + j + ":" + j + "," + i + "행은 인접합니까? : 인접 1 / 비인접 0 : ");
                     Edge[i][j] = scanner.nextInt();
-                } else { // 같은 부분은 어차피 인접행렬이 아니다다.
+                } 
+                else { // 같은 부분은 어차피 인접행렬이 아니다다.
                     Edge[i][j] = 0;
                 }
                 Node[i] = false; // 전부 비방문 상태
