@@ -99,6 +99,7 @@ public class Solution {
 
 ```
 
+[위로](#java_algorithmdatastruct)
 
 
 ### Merge Sort
@@ -237,6 +238,7 @@ public class Solution {
 }
 
 ```
+[위로](#java_algorithmdatastruct)
 
 <hr>
 
@@ -343,7 +345,7 @@ else if((Position == 1) && (Number>1)){
 
 ```
 
-[위로](#Java_Algorithm/DataStruct)
+[위로](#java_algorithmdatastruct)
 
 
 
@@ -429,7 +431,7 @@ else if((Position == 1) && (Number>1)){
   }
 ```
 
-[위로](#Java_Algorithm/DataStruct)
+[위로](#java_algorithmdatastruct)
 
 
 
@@ -526,7 +528,7 @@ else if((Position == 1) && (Number>1)){
 
 
 
-[위로](#Java_Algorithm/DataStruct)
+[위로](#java_algorithmdatastruct)
 
 
 
@@ -604,7 +606,7 @@ else if((Position == 1) && (Number>1)){
 
 ```
 
-[위로](#Java_Algorithm/DataStruct)
+[위로](#java_algorithmdatastruct)
 
 ## Breadth First Search - Tree Level Traversal
 
