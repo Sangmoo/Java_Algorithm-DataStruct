@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.*;
 
 public class Java_List {
 
@@ -196,7 +196,7 @@ public class Java_List {
     String Data;
     Scanner scanner = new Scanner(System.in);
     int Select;
-    
+
     while(true){
         System.out.println("해당 기능을 선택해주세요  ");
         System.out.print("1 - 삽입 / 2 - 삭제 / 3 - 검색 / 4 - 길이 / 5 - 다시 생성 / 6 - 리스트 파괴 / 7 - 비어있는지 확인 / 8 - 모든 검색  ");
