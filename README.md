@@ -706,4 +706,4 @@ public void BFS(BFS bfs,int i,int End){
     } 
 ```
 
-[위로](#Java_Algorithm/DataStruct)
+[위로](#java_algorithmdatastruct)
