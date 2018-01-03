@@ -240,7 +240,7 @@ public class Solution {
 
 <hr>
 
-##Data Structure
+## Data Structure
 
 ## List
 
@@ -343,7 +343,7 @@ else if((Position == 1) && (Number>1)){
 
 ```
 
-[위로](#data-structure)
+[위로](#Data Structure)
 
 
 
@@ -429,7 +429,7 @@ else if((Position == 1) && (Number>1)){
   }
 ```
 
-[위로](#data-structure)
+[위로](#Data Structure)
 
 
 
@@ -526,7 +526,7 @@ else if((Position == 1) && (Number>1)){
 
 
 
-[위로](#data-structure)
+[위로](#Data Structure)
 
 
 
@@ -604,7 +604,7 @@ else if((Position == 1) && (Number>1)){
 
 ```
 
-[위로](#data-structure)
+[위로](#Data Structure)
 
 ## Breadth First Search - Tree Level Traversal
 
@@ -706,4 +706,4 @@ public void BFS(BFS bfs,int i,int End){
     } 
 ```
 
-[위로](#data-structure)
+[위로](#Data Structure)
