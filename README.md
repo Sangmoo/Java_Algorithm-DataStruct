@@ -1,4 +1,4 @@
-# Java_Algorithm
+# Java_Algorithm/DataStruct
 
 <hr>
 
