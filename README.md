@@ -1,4 +1,4 @@
-# Java_Algorithm/DataStruct
+# **Java_Algorithm/DataStruct**
 
 <hr>
 
@@ -343,7 +343,7 @@ else if((Position == 1) && (Number>1)){
 
 ```
 
-[위로](#Data Structure)
+[위로](#Java_Algorithm/DataStruct)
 
 
 
@@ -429,7 +429,7 @@ else if((Position == 1) && (Number>1)){
   }
 ```
 
-[위로](#Data Structure)
+[위로](#Java_Algorithm/DataStruct)
 
 
 
@@ -526,7 +526,7 @@ else if((Position == 1) && (Number>1)){
 
 
 
-[위로](#Data Structure)
+[위로](#Java_Algorithm/DataStruct)
 
 
 
@@ -604,7 +604,7 @@ else if((Position == 1) && (Number>1)){
 
 ```
 
-[위로](#Data Structure)
+[위로](#Java_Algorithm/DataStruct)
 
 ## Breadth First Search - Tree Level Traversal
 
@@ -706,4 +706,4 @@ public void BFS(BFS bfs,int i,int End){
     } 
 ```
 
-[위로](#Data Structure)
+[위로](#Java_Algorithm/DataStruct)
