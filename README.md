@@ -1,6 +1,4 @@
-# **Java_Algorithm/DataStruct**
-
-* Sort
+# **Java_Algorithm**
 
 ## Sort
 
@@ -238,9 +236,10 @@ public class Solution {
 ```
 [위로](#java_algorithmdatastruct)
 
-<hr>
 
-## Data Structure
+
+
+## Java Data Structure
 
 ## List
 
