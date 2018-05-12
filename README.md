@@ -1,7 +1,5 @@
 # **Java_Algorithm/DataStruct**
 
-<hr>
-
 * Sort
 
 ## Sort
